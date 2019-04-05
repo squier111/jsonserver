@@ -1,0 +1,34 @@
+{
+  "orderInfo": [
+    {
+      "id": 1,
+      "date": "02.02.02",
+      "orderId": "o-15100416",
+      "typeOrder": "опт",
+      "customer": "Steve Palmer",
+      "provider" : "Мясосало",
+      "dateDone": "02.02.03",
+      "status": "done"
+    },
+    {
+      "id": 2,
+      "date": "02.02.02",
+      "orderId": "o-15100416",
+      "typeOrder": "опт",
+      "customer": "Steve Palmer",
+      "provider" : "Мясосало",
+      "dateDone": "02.02.03",
+      "status": "done"
+    },
+    {
+      "id": 3,
+      "date": "02.02.02",
+      "orderId": "o-15100416",
+      "typeOrder": "опт",
+      "customer": "Steve Palmer",
+      "provider" : "Мясосало",
+      "dateDone": "02.02.03",
+      "status": "done"
+    }
+  ]
+}
